@@ -1,5 +1,5 @@
-export default 
-    [
+
+    const Data=[
       
       {
         "id": "1",
@@ -78,4 +78,6 @@ export default
       }
        
 ]
+
+export default Data
 
